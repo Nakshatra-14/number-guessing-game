@@ -11,4 +11,4 @@ java Game
 java Game.java
 ```
 
-#Project Idea from [Roadmap](https://roadmap.sh/projects/number-guessing-game)
+## Project Idea from [Roadmap](https://roadmap.sh/projects/number-guessing-game)
